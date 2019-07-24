@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+ <meta charset="UTF-8">
+ <title>　課題</title>
+ </head>
+ <body>
+
+<h1>MOANA cafe&
+               dinner紹介</h1>
+            </div>
+      
+        </div>
+        <div class="hobby">
+        <section class="hobby-section">
+            <h2>ランチ人気メニュー</h2>
+           
+             <p>白カレー</p>
+            <p> アヒポキ丼</p>
+             <p>ロコモコ丼</p>
+             <p>本日のパスタ（タコのアラビアータ、ハマグリのアーリオーリオ、ボロネーゼ、イカとキャベツのアンチョビパスタ）</p>
+            
+            
+            <h2>ディナー人気メニュー</h2>
+
+            <p>ローストビーフ</p>
+            <p>マグロのカツレツ</p>
+            <p>アヒポキ</p>
+            <p>ハラミステーキ</p>
+            <p>MOANAサラダ</p>
+         <p>MOANAクラッシクパンケーキ</p>
+
+        <br>
+<img src="https://uds.gnst.jp/rest/img/73hm126c0000/s_0n5i.jpg?t=1542023561">
+
+ <h2>住所</h2>
+  <input type="button" value="答え"
+         onclick="alert( 埼玉県川越市脇田町14-3 こえどテラス1F'');">
+          
+         <h2>アクセス</h2>
+  <input type="button" value="答え"
+         onclick="alert(ＪＲ川越線 川越駅 東口 徒歩6分 '');">
+         
+          
+  <h2>営業時間</h2>
+  <input type="button" value="答え"
+         onclick="alert( 11:30～24:00'');">
+          
